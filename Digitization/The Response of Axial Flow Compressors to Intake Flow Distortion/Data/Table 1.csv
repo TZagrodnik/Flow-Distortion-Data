@@ -1,0 +1,17 @@
+﻿Spolier #,Description,P1/P2 at 100% N,ΔP_1 60° / q _1 ,Remarks
+1,1 x 90°,0.933,0.402,
+2,1 x 45°,0.931,0.387,
+3,1 x 22.5°,-,-,Test curtailed by failure
+4,1 x 11.25°,-,-,Not tested
+5,2 x 45°,0.93,0.281,
+6,4 x 22.5°,0.936,0.036,
+7,2 x 22.5°,-,-,Not tested
+8,1 x 90°,0.87,0.86,
+9,1 x 90°,0.967,0.178,
+10,360° tip,-,-,Test curtailed by high stage 1 rotor stresses
+11,360° hub,0.952,0,
+12,1 x 180°,0.927,0.287,
+13,1 x 270°,0.923,0.146,
+14,1 x 315°,0.925,0.059,
+15,180° hub + 180° tip,0.925,0.185,
+16,360°,1,0,Covered whole annulus
