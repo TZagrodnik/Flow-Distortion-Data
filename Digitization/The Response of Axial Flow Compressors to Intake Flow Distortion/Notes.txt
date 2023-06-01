@@ -1,0 +1,5 @@
+Notes:
+
+-Figure 5 Change in Mass Flow Plot
+	-Original paper shows two data points for Spoiler #2 100% Speed at different locations.
+	 This was assumed to be an error, and one of said points was changed to 94%, in line with the trend of nearby data.
